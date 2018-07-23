@@ -23,3 +23,7 @@ Run the server and open [http://localhost:8080](http://localhost:8080) in your f
     npm run server
 
 Start editing and see your changes live!
+
+## TODO
+
+- [ ] Detect environment and add a default production webpack config (PRs appreciated :-D )
