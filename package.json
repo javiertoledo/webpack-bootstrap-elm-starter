@@ -2,10 +2,11 @@
   "name": "webpack-bootstrap-elm-starter",
   "version": "0.0.1",
   "description": "An starter project to build Elm applications with Bootstrap 4 and webpack with livereload",
+  "repository": "https://github.com/javiertoledo/webpack-bootstrap-elm-starter.git",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "server": "webpack-dev-server"
+    "start": "webpack-dev-server"
   },
   "keywords": [
     "webpack",
@@ -27,7 +28,8 @@
     "webpack": "^4.16.2",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.5",
-    "webpack-shell-plugin": "^0.5.0"
+    "webpack-shell-plugin": "^0.5.0",
+    "ajv": "^6.0.0"
   },
   "dependencies": {
     "bootstrap": "^4.1.2",

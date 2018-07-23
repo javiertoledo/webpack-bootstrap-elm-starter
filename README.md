@@ -6,7 +6,7 @@ This is just a template project to create projects with following characteristic
 * Bootstrap 4
 * Webpack preconfigured for live reloading
 
-## How to use this:
+## How to use this:
 
 Download this repository contents
 

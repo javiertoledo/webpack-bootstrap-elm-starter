@@ -1,6 +1,6 @@
 {
     "version": "0.0.1",
-    "summary": "An starter project to build Elm applications with Bootstrap 4 and webpack with livereload",
+    "summary": "An starter project to build Elm applications with Bootstrap",
     "repository": "https://github.com/javiertoledo/webpack-bootstrap-elm-starter.git",
     "license": "MIT",
     "source-directories": [
